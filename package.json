@@ -1,0 +1,22 @@
+{
+  "name": "ycf-pgsql-example",
+  "version": "1.0.0",
+  "description": "Yandex Cloud Functions example: work with Managed PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "build": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monsterzz/ycf-pgsql-example.git"
+  },
+  "author": "Gleb Borisov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monsterzz/ycf-pgsql-example/issues"
+  },
+  "homepage": "https://github.com/monsterzz/ycf-pgsql-example#readme",
+  "dependencies": {
+    "pg": "^7.12.1"
+  }
+}
