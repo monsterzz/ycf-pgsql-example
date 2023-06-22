@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/monsterzz/ycf-pgsql-example#readme",
   "dependencies": {
-    "pg": "^7.12.1"
+    "pg": "^8.11.0"
   }
 }
